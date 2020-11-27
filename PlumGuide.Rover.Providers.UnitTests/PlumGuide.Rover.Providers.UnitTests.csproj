@@ -16,7 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\PlumGuide.Rover.PositionProvider\PlumGuide.Rover.Providers.csproj" />
+    <ProjectReference Include="..\PlumGuide.Rover.Providers\PlumGuide.Rover.Providers.csproj" />
   </ItemGroup>
 
 </Project>
